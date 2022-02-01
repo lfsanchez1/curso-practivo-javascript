@@ -1,19 +1,3 @@
-const lista1 = [
-    1,
-    2,
-    3,
-    1,
-    2,
-    3,
-    4,
-    2,
-    2,
-    2,
-    1
-];
-
-
-
 function calcularModa(lista){
 
     const listaCount = {};
@@ -35,6 +19,5 @@ function calcularModa(lista){
     )
     
     const moda = ListaArray[ListaArray.length - 1];
-    return moda;
-    
+    return moda;    
 }
