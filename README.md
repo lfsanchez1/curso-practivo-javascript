@@ -22,3 +22,4 @@
 - Segundo paso: implementar las formulas en javascript
 - Tercer paso: crear funciones 
 - Cuarto paso: integrar javascript con html
+
